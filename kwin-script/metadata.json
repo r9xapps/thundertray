@@ -1,0 +1,13 @@
+{
+    "KPlugin": {
+        "Name": "ThunderTray",
+        "Description": "Hides minimized Thunderbird windows from the taskbar so they live in the system tray",
+        "Icon": "thunderbird",
+        "Id": "thundertray",
+        "Version": "1.0",
+        "License": "MIT"
+    },
+    "X-Plasma-API": "javascript",
+    "X-Plasma-MainScript": "code/main.js",
+    "KPackageStructure": "KWin/Script"
+}
